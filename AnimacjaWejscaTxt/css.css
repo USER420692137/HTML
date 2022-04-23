@@ -1,0 +1,15 @@
+#text {
+    font-size: 100;
+    width: 400;
+    height: 100;
+    position: absolute;
+    left: 50;
+    top: 400;
+}
+
+#Gym {
+    font-size: 70;
+    position: absolute;
+    left: 800;
+    margin-top: -90;
+}
