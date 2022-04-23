@@ -1,0 +1,478 @@
+#DivGlowny {
+    display: flex;
+    justify-content: center;
+    font-size: 100;
+    margin-top: -100;
+}
+
+#dodge {
+    margin-left: 400;
+    height: 700;
+    margin-top: -100;
+}
+
+#HpALL {
+    display: flex;
+    justify-content: center;
+    margin-top: 100;
+}
+
+#HpIn {
+    color: white;
+    font-size: 20;
+    background-color: rgba(255, 62, 62, 0.678);
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+
+#HpWidh {
+    width: 600;
+    margin-left: 20;
+}
+
+#HpMargin {
+    margin-left: 20px;
+}
+
+#Cash {
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}
+
+#CashIn {
+    background-color: yellow;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+}
+
+#CashWidh {
+    margin-left: 120px;
+}
+
+#BosAlert {
+    background-color: white;
+    width: 1200px;
+    height: 800px;
+    margin-top: -310px;
+    border-radius: 10%;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.089);
+}
+
+#BackGroundBos {
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-top: -600;
+    visibility: hidden;
+    opacity: 90%;
+}
+
+#OkButton {
+    margin-top: 300px;
+    margin-left: -730;
+    width: 300;
+    height: 100;
+    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.062);
+    border-style: solid;
+    border-color: black;
+}
+
+#BosText {
+    display: flex;
+    justify-content: center;
+    margin-top: 340;
+    font-size: 70px;
+}
+
+#Booster {
+    margin-left: 1100;
+    margin-top: -1000;
+    width: 300px;
+    height: 200px;
+    margin-top: -900px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-style: solid;
+}
+
+#wybierzBoster {
+    width: 100px;
+    height: 200px;
+    margin-top: -624px;
+    font-size: 20;
+    margin-left: -410;
+}
+
+#Horny {
+    width: 200px;
+    height: 170px;
+    margin-left: 1160px;
+    margin-top: -780;
+    visibility: hidden;
+}
+
+#hert {
+    width: 20px;
+    height: 20px;
+    margin-top: 8px;
+    margin-left: 323px;
+}
+
+#HORNYBOOST {
+    margin-top: -830;
+    margin-left: 710;
+    font-size: 30;
+    color: rgb(0, 0, 0);
+    visibility: hidden;
+}
+
+#BrakBoostera1 {
+    width: 200;
+    margin-top: -395;
+    margin-left: 575;
+}
+
+#obudowaMagi {
+    display: flex;
+    justify-content: center;
+    margin-top: 100;
+    margin-top: -370;
+}
+
+#MagiaWMagi {
+    background-color: rgb(150, 150, 253);
+    width: 200;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    border: solid;
+    border-color: black;
+    margin-top: 40;
+}
+
+#MagiaText {
+    display: flex;
+    justify-content: center;
+}
+
+#Opis {
+    display: flex;
+    justify-content: center;
+    margin-top: -860;
+    margin-left: 1390;
+    font-size: 30;
+    background-color: wheat;
+    border-radius: 10%;
+}
+
+#ArtefaktDwa {
+    margin-top: 220;
+}
+
+#BrakBoostera3 {
+    width: 200;
+    margin-top: -375;
+    margin-left: 575;
+}
+
+#ArtefaktJeden {
+    margin-top: 0;
+}
+
+#ArtefaktTrzy {
+    margin-top: 200;
+}
+
+#BrakBoostera2 {
+    width: 200;
+    margin-top: -394;
+    margin-left: 575;
+}
+
+#wybierzBoster2 {
+    width: 100px;
+    height: 200px;
+    margin-top: -609px;
+    font-size: 20;
+    margin-left: -410;
+}
+
+#wybierzBoster3 {
+    margin-top: 20;
+}
+
+#Opis3 {
+    display: flex;
+    justify-content: center;
+    margin-top: -730;
+    margin-left: 1390;
+    font-size: 30;
+    background-color: wheat;
+    border-radius: 10%;
+}
+
+#Booster3 {
+    margin-left: 1100;
+    padding-bottom: 100;
+    width: 300px;
+    height: 200px;
+    margin-top: -900px;
+    background-color: antiquewhite;
+    border-color: black;
+    border-style: solid;
+}
+
+#wybierzBoster4 {
+    width: 100px;
+    height: 200px;
+    margin-top: -839px;
+    font-size: 20;
+    margin-left: -106;
+}
+
+#valuty {
+    margin-top: -30;
+}
+
+#Horny2 {
+    width: 200px;
+    height: 170px;
+    margin-left: 1160px;
+    margin-top: -730;
+    visibility: hidden;
+}
+
+#Swag {
+    height: 170px;
+    margin-left: 1160px;
+    margin-top: -780;
+    visibility: hidden;
+}
+
+#Opis2 {
+    display: flex;
+    justify-content: center;
+    margin-top: -880;
+    margin-left: 1390;
+    font-size: 30;
+    background-color: wheat;
+    border-radius: 10%;
+}
+
+#CashShop {
+    background-color: rgb(243, 174, 24);
+    width: 370;
+    height: 954;
+    margin-top: -990;
+}
+
+#Name {
+    font-size: 40;
+    margin-left: 130;
+}
+
+#NameKox {
+    background-color: wheat;
+}
+
+#SlotPierwszy {
+    background-color: wheat;
+    width: 150;
+    height: 150;
+    margin-top: 100;
+    margin-left: 10;
+}
+
+#ImgPierwszy {
+    margin-left: 15;
+    width: 130
+}
+
+#BuySlotJeden {
+    font-size: 20;
+    height: 30;
+    width: 80;
+}
+
+#Sell {
+    font-size: 20;
+    margin-left: 40;
+    margin-top: -15;
+    height: 30;
+    width: 70;
+}
+
+#OpisSlotJeden {
+    background-color: wheat;
+    margin-top: -260;
+    margin-left: 30;
+    font-size: 20
+}
+
+#Jeden {
+    margin-top: -20;
+}
+
+#OPISground {
+    background-color: wheat;
+}
+
+#AmountSlotJeden {
+    margin-top: 180;
+    margin-left: 35;
+}
+
+#AmonutJedenWith {
+    background-color: wheat;
+}
+
+#OpisItemJeden {
+    margin-top: -15;
+    margin-left: 29;
+}
+
+#WithItemJedenOpis {
+    background-color: wheat;
+}
+
+#SlotDrugi {
+    background-color: wheat;
+    width: 150;
+    height: 150;
+    margin-top: 140;
+    margin-left: 10;
+}
+
+#OpisSlotDwa {
+    margin-top: -225;
+    margin-left: 29;
+}
+
+#bOOstyDwa {
+    margin-top: -17;
+}
+
+#OpisItemDwa {
+    background-color: wheat;
+    margin-top: -15;
+}
+
+#MarginItemDwa {
+    margin-left: 20;
+}
+
+#OPISground2 {
+    background-color: wheat;
+    margin-top: -225;
+}
+
+#OpisSlotTrzt {
+    margin-left: 15;
+}
+
+#SlotTrzeci {
+    background-color: wheat;
+    width: 150;
+    height: 150;
+    margin-top: -710;
+    margin-left: 190;
+}
+
+#OpisItemDwa {
+    margin-top: 220;
+    margin-left: 29;
+}
+
+#OpisItemTrzy {
+    margin-top: 160;
+    margin-left: 29;
+}
+
+#SlotCzwarty {
+    background-color: wheat;
+    width: 150;
+    height: 150;
+    margin-top: -440;
+    margin-left: 190;
+}
+
+#WithItemDwaOpis {
+    margin-left: -30;
+    margin-top: -219;
+}
+
+#GuzikiSlotCzteru {
+    margin-top: 17;
+}
+
+#ImgCzwarty {
+    margin-left: 15;
+    width: 130
+}
+
+#OpisItemCztery {
+    margin-top: 185;
+    font-size: 13;
+    margin-left: 29;
+}
+
+#BuySlotDwa {
+    font-size: 20;
+    height: 30;
+    width: 150;
+}
+
+#OpisSlotCztery {
+    background-color: wheat;
+    margin-top: -245;
+    margin-left: 30;
+    font-size: 20
+}
+
+#DRAGON_MENCHART {
+    background-color: rgba(155, 101, 155, 0.452);
+    height: 230;
+    margin-left: 1300;
+    margin-top: 140;
+    width: 550;
+    visibility: hidden;
+}
+
+#MagicText {
+    font-size: 20;
+    margin-left: 180
+}
+
+#BuToN {
+    margin-top: 10;
+    font-size: 30;
+    height: 120;
+    margin-left: 100;
+    width: 200
+}
+
+#MagicDoge {
+    visibility: hidden;
+    margin-top: -220;
+    margin-left: 1650;
+    width: 200
+}
+
+#Lock {
+    margin-top: -300;
+    width: 200;
+    height: 200;
+    background-color: purple;
+    margin-left: 1300
+}
+
+#container {
+    width: 100vw;
+    min-height: 100vh;
+    position: relative;
+}
