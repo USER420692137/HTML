@@ -1,0 +1,18 @@
+    #PsyX {
+        width: 100;
+        height: 100;
+        position: absolute;
+        background-color: red;
+        left: 100;
+        top: 100;
+        bottom: 0;
+    }
+    
+    #Colider {
+        width: 200;
+        height: 100;
+        position: absolute;
+        background-color: rgb(71, 71, 71);
+        left: 100;
+        top: 500;
+    }
